@@ -1,5 +1,5 @@
-# 因数据集涉及到隐私,如需要请联系wanggang userbean@outlook.com
 # 卵巢癌多模态分类模型对比研究
+# 因数据集涉及到隐私,如需要请联系wanggang userbean@outlook.com
 ## 项目背景
 卵巢癌是女性生殖系统常见的恶性肿瘤之一，早期准确诊断对提高患者生存率和治疗效果至关重要。医学影像技术（如CT和超声）是卵巢癌诊断的重要手段，本项目通过构建多种单一模态和多模态融合模型，旨在探索最优的卵巢癌分类方案。
 <img width="1640" height="966" alt="image" src="https://github.com/user-attachments/assets/ee27dd92-4253-471c-8c16-a90ef609d260" />
