@@ -2,6 +2,9 @@
 # 卵巢癌多模态分类模型对比研究
 ## 项目背景
 卵巢癌是女性生殖系统常见的恶性肿瘤之一，早期准确诊断对提高患者生存率和治疗效果至关重要。医学影像技术（如CT和超声）是卵巢癌诊断的重要手段，本项目通过构建多种单一模态和多模态融合模型，旨在探索最优的卵巢癌分类方案。
+<img width="1640" height="966" alt="image" src="https://github.com/user-attachments/assets/ee27dd92-4253-471c-8c16-a90ef609d260" />
+<img width="1588" height="1274" alt="image" src="https://github.com/user-attachments/assets/8f8f0cad-13ea-4f80-b176-440526383d79" />
+<img width="1644" height="1122" alt="image" src="https://github.com/user-attachments/assets/a3e9c234-7f4c-4ee8-a9ab-f70bd0b61f2a" />
 
 ## 数据集信息
 - **数据类型**：包含两种医学影像模态
@@ -44,3 +47,4 @@
 - 明确不同模态数据在卵巢癌分类中的相对优势
 - 验证多模态融合策略的有效性
 - 为临床卵巢癌的影像辅助诊断提供可靠的模型支持
+
