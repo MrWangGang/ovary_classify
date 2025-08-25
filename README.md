@@ -5,6 +5,9 @@
 <img width="1640" height="966" alt="image" src="https://github.com/user-attachments/assets/ee27dd92-4253-471c-8c16-a90ef609d260" />
 <img width="1588" height="1274" alt="image" src="https://github.com/user-attachments/assets/8f8f0cad-13ea-4f80-b176-440526383d79" />
 <img width="1644" height="1122" alt="image" src="https://github.com/user-attachments/assets/a3e9c234-7f4c-4ee8-a9ab-f70bd0b61f2a" />
+<img width="1734" height="642" alt="image" src="https://github.com/user-attachments/assets/0afd75db-0ebb-4254-9d86-d94c00f1c3a1" />
+<img width="1792" height="632" alt="image" src="https://github.com/user-attachments/assets/2db0324f-5af5-437c-9a76-f9b72ab33ee4" />
+
 
 ## 数据集信息
 - **数据类型**：包含两种医学影像模态
